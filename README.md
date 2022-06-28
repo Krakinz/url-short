@@ -1,4 +1,4 @@
-# Simple URL Shortener
+## Simple URL Shortener
 
 Source Code of the Code from the article of [Adventure Of Krakinz](https://krakinz.tk)
 
@@ -10,6 +10,8 @@ Tools Using :
 - jquery
 
 No Need Of Database !
+
+Get the conversion string from https://jsonstore.io
 
 READ THE Original ARTICLE HERE
 
